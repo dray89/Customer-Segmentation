@@ -1,0 +1,11 @@
+*.pyc
+*.ini
+*.bak
+/Lib/site-packages/pip-20.2.3.dist-info/LICENSE.txt
+/Scripts
+/Lib
+/pyvenv.cfg
+keywords.csv
+.ipynb_checkpoints/Data_Create-checkpoint.ipynb
+.ipynb_checkpoints/notebook-checkpoint.ipynb
+Data_Create.ipynb
